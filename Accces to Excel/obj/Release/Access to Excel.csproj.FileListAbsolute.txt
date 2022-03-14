@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Release\Access to Excel.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Release\Accces_to_Excel.MainForm.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Release\Access to Excel.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Release\Access to Excel.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Release\Accces_to_Excel.Form1.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Release\Accces_to_Excel.Form2.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Release\Accces_to_Excel.Properties.Resources.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Release\Accces_to_Excel.Convertidor.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Release\Accces_to_Excel.Mensaje.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Release\Accces_to_Excel.Form3.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Release\ClosedXML.dll
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Release\ClosedXML.xml
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Release\Access to Excel.csprojResolveAssemblyReference.cache

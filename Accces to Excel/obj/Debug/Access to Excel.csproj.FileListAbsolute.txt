@@ -1,0 +1,32 @@
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\Access to Excel.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\Access to Excel.pdb
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.MainForm.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Access to Excel.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Access to Excel.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Access to Excel.pdb
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Form1.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Properties.Resources.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Form2.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Convertidor.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Mensaje.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Form3.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\ClosedXML.dll
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\ClosedXML.xml
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Access to Excel.exe
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Access to Excel.pdb
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Access to Excel.csprojResolveAssemblyReference.cache
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Convertidor.resources
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Form1.resources
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Form2.resources
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Form3.resources
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.MainForm.resources
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Mensaje.resources
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.Properties.Resources.resources
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Access to Excel.csproj.GenerateResource.Cache
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\Access to Excel.exe
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\Access to Excel.pdb
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\ClosedXML.dll
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\DocumentFormat.OpenXml.dll
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\MySql.Data.dll
+F:\RESPALDO LAP_LZ\DISCO LOCAL C\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\ClosedXML.xml

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access to Excel", "Accces to Excel\Access to Excel.csproj", "{200A98E7-C5AE-49C0-8C5B-8017C1010615}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup AccToExSQL", "Setup AccToEx\Setup AccToEx.vdproj", "{A28E197C-8C04-4D77-AA07-9EE7DD6E967C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_AtEaS", "Setup_AtEaS\Setup_AtEaS.vdproj", "{2DC3620F-9871-47C6-8572-59B59E5D1754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{200A98E7-C5AE-49C0-8C5B-8017C1010615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200A98E7-C5AE-49C0-8C5B-8017C1010615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200A98E7-C5AE-49C0-8C5B-8017C1010615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200A98E7-C5AE-49C0-8C5B-8017C1010615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28E197C-8C04-4D77-AA07-9EE7DD6E967C}.Debug|Any CPU.ActiveCfg = Debug
+		{A28E197C-8C04-4D77-AA07-9EE7DD6E967C}.Release|Any CPU.ActiveCfg = Release
+		{2DC3620F-9871-47C6-8572-59B59E5D1754}.Debug|Any CPU.ActiveCfg = Debug
+		{2DC3620F-9871-47C6-8572-59B59E5D1754}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

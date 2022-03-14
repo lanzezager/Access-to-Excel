@@ -1,0 +1,10 @@
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces to Excel.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces to Excel.csproj.ResolveComReference.cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces_to_Excel.MainForm.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces to Excel.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\Accces to Excel.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\Accces to Excel.pdb
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces to Excel.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Accces to Excel\Accces to Excel\obj\Debug\Accces to Excel.pdb
